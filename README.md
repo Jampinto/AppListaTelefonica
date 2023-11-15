@@ -1,4 +1,4 @@
-# AppListaTelefonica
+# App Lista Telefónica
 
 - Padrão de desenvolvimento: MVVM
 - Ligação a base de dados SQLite com ROOM
